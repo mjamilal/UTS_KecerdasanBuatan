@@ -1,0 +1,19 @@
+Sistem Pakar Hama Tanaman
+
+Aturan Logika:
+1. Jika daun menguning maka hama adalah Kutu Daun.
+2. Jika terdapat bercak hitam maka penyakit adalah Jamur.
+3. Jika daun berlubang maka hama adalah Ulat.
+4. Jika tanaman layu maka hama adalah Nematoda.
+
+Pseudocode:
+IF daun_menguning THEN hama = "Kutu Daun"
+IF bercak_hitam THEN hama = "Jamur"
+IF daun_berlubang THEN hama = "Ulat"
+IF tanaman_layu THEN hama = "Nematoda"
+
+Alur Inferensi:
+- Input berupa daftar gejala.
+- Setiap gejala dicocokkan dengan aturan yang ada.
+- Output berupa jenis hama/penyakit berdasarkan gejala.
+
