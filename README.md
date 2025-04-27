@@ -1,7 +1,7 @@
 # UTS Kecerdasan Buatan 2024/2025
 **Nama:** M.jamil alfadilah 
-**NIM:** 2306022
 
+**NIM:** 2306022
 **Dosen:** Leni Fitriani, S.T., M.Kom
 
 ---
